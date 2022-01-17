@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biswajeet Ray</h1>
-<h3 align="center">Cybersecurity Guy, Cybercrime Investigator, OSINT, GEOINT, SOCMINT, Security Analyst, Programmer, Founder of Indian Cyber Ops</h3>
+<h3 align="center">Cybersecurity Guy, Security Researcher, OSINT, GEOINT, SOCMINT, Independent Analyst, Programmer, Founder of Indian Cyber Ops</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajeetray7&label=Profile%20views&color=0e75b6&style=flat" alt="biswajeetray7" /> </p>
 
